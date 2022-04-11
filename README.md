@@ -4,4 +4,4 @@ teste
 
 
  # ALTERAÇÃO
-    esse é o readme da branch feat_2
+    esse é o readme da branch FEAT_2
